@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Muhammad Tayyab The Game Dev](https://github.com/CodeBard-x88/CodeBard-x88/blob/main/Game%20Development%20Banner.png)
 <!--
 **CodeBard-x88/CodeBard-x88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
