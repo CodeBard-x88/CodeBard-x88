@@ -1,6 +1,6 @@
 ![Muhammad Tayyab The Game Dev](https://github.com/CodeBard-x88/CodeBard-x88/blob/main/Game%20Development%20Banner.png)
 <br>
-<h1>About</h1>
+<h1 align="center">About</h1>
 <p>
   Hello everyone,
 
@@ -10,6 +10,8 @@ While my primary focus lies in game development, I'm equally fascinated by the p
 
 This achievement boosted my confidence, and I am now more confident to surf on the waves of Blockchain and Game development.s
 </p>
+
+<h2 align="center">A GLIMPSE OF MY RECENT WORK</h2>
 
 <center><h2>Pirate Siege</h2></center>
 <p align="center">
