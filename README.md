@@ -1,5 +1,7 @@
 ![Muhammad Tayyab The Game Dev](https://github.com/CodeBard-x88/CodeBard-x88/blob/main/Game%20Development%20Banner.png)
+<div style="text-align:center">
 [![Video Thumbnail](https://github.com/CodeBard-x88/CodeBard-x88/blob/main/Pirate%20Siege.png)](https://drive.google.com/file/d/1RgSv_r_b6J9Q2WtaOf-cZODYfgtppacn/view?usp=drive_link)
+</div>
 
 
 
