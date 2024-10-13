@@ -4,23 +4,23 @@
 <p>
   Hello everyone,
 
-I'm excited to introduce myself as a Junior Game Developer with a strong passion for exploring the realms of Web 3.0 and the Metaverse. With a year of experience in game development under my belt, I've had the pleasure of participating in various game jams, including the recent SOFTEC 2024 Game Jam where my team proudly secured a spot in the top 4. 
+I'm a CS Final Year student at FAST NU with a diverse background in software development, currently working across several exciting tech stacks. My journey began with a strong passion for Game Development, and I’ve gained a year of hands-on experience working with Unity, where I’ve participated in both game jams and professional projects.
 
-While my primary focus lies in game development, I'm equally fascinated by the potential of Web 3.0 and Blockchain technologies. This curiosity seamlessly intertwines with my love for game development, propelling me into the exciting universe of the Metaverse. In the recent event, SOFTEC 2024, I secured first place in the Blockchain Competiton. 
+While I remain involved in game development, I'm currently exploring other areas that excite me even more: Web Development and Data Science. My Final Year Project involves building a Semantic Search-Powered B2B Wholesale Marketplace using the MERN Stack, where I’m developing a platform to improve B2B transactions through intelligent search technologies.
 
-This achievement boosted my confidence, and I am now more confident to surf on the waves of Blockchain and Game development.s
+On the Data Science front, I'm working on a project focused on Products Data Analysis, where I analyze product data from an e-commerce platform. This project explores how product features and customer ratings affect pricing and user preferences, enabling data-driven recommendations that can enhance customer decision-making.
+
+While game development continues to be a part of my skillset, I am currently excited to delve deeper into web technologies and data science to create meaningful and innovative solutions for real-world problems.
 </p>
 
-<h2 align="center">A GLIMPSE OF MY RECENT WORK</h2>
+<!-- <h2 align="center">A GLIMPSE OF MY RECENT WORK</h2>
 
 <center><h2>Pirate Siege</h2></center>
 <p align="center">
   <a href="https://drive.google.com/file/d/1RgSv_r_b6J9Q2WtaOf-cZODYfgtppacn/view?usp=drive_link">
     <img src="https://github.com/CodeBard-x88/CodeBard-x88/blob/main/Pirate%20Siege.png" alt="Video Thumbnail">
   </a>
-</p>
-
-
+</p> -->
 
 <!--
 **CodeBard-x88/CodeBard-x88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
