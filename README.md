@@ -13,15 +13,6 @@ On the Data Science front, I'm working on a project focused on Products Data Ana
 While game development continues to be a part of my skillset, I am currently excited to delve deeper into web technologies and data science to create meaningful and innovative solutions for real-world problems.
 </p>
 
-<!-- <h2 align="center">A GLIMPSE OF MY RECENT WORK</h2>
-
-<center><h2>Pirate Siege</h2></center>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1RgSv_r_b6J9Q2WtaOf-cZODYfgtppacn/view?usp=drive_link">
-    <img src="https://github.com/CodeBard-x88/CodeBard-x88/blob/main/Pirate%20Siege.png" alt="Video Thumbnail">
-  </a>
-</p> -->
-
 <!--
 **CodeBard-x88/CodeBard-x88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
