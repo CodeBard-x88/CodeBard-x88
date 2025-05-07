@@ -8,9 +8,7 @@ I'm a CS Final Year student at FAST NU with a diverse background in software dev
 
 While I remain involved in game development, I'm currently exploring other areas that excite me even more: Web Development and Data Science. My Final Year Project involves building a Semantic Search-Powered B2B Wholesale Marketplace using the MERN Stack, where I’m developing a platform to improve B2B transactions through intelligent search technologies.
 
-On the Data Science front, I'm working on a project focused on Products Data Analysis, where I analyze product data from an e-commerce platform. This project explores how product features and customer ratings affect pricing and user preferences, enabling data-driven recommendations that can enhance customer decision-making.
-
-While game development continues to be a part of my skillset, I am currently excited to delve deeper into web technologies and data science to create meaningful and innovative solutions for real-world problems.
+While game development continues to be a part of my skillset, I am currently excited to delve deeper into web technologies and data science and AI/ML to create meaningful and innovative solutions for real-world problems.
 </p>
 
 <!--
